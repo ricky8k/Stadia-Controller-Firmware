@@ -1,2 +1,2 @@
 # Stadia Controller Firmware
-Firmware files for Stadia Controller.
+Archive of official firmware files for Stadia Controller.
